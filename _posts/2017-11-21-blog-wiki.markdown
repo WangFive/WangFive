@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "利用Github搭建个人知识管理系统"
+subtitle:   "通过Github的Pages和Wiki搭建内容管理系统,并具有良好的写作环境"
+date:       2017-11-21
+author:     "WangF"
+header-img: "img/post-bg-universe.jpg"
+tags:
+    - Github Pages
+    - 内容管理系统
+    - gollum
+---
+
+最近从网上看到目前比较流行的内容管理系统的方案,通过Github的Pages搭建blog进行知识创作/分享,通过Github的Wiki进行知识整理.优点还挺多的,下面来安利一下.
+
+[理想的写作环境](http://www.yangzhiping.com/tech/writing-space.html):
+> * Git: 让人不再担心写废，想到哪里，写到哪里。
+> * Github: 让人不再担心备份与远程协作，一切提交，均有记录。
+> * Markdown: 不再忧虑排版，专注写作。
+
+Blog搭建方法如下:
+[如何用github page搭建博客？ - 我是蛋蛋的回答 - 知乎](https://www.zhihu.com/question/59088760/answer/161640592)
+
+1. 先去github官网申请一个账号，然后创建一个仓库
+2. 进入仓库的右上角的Setting里，将仓库改为master分支
+3. 随便选择一个Jekyll主题后退出来,后面可以替换成自己想要的主题
+4. 将仓库clone到本地
+5. 将自己找到的blog主题覆盖进去,我用的是[这个](https://github.com/Huxpro/huxblog-boilerplate)
+
+[Wiki的内容管理系统搭建](http://www.yangzhiping.com/tech/gollum.html) 
+
+#### 一些资源
+
+
+
+
+
+#### 著作权声明
+
+
